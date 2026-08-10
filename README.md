@@ -381,19 +381,24 @@ Expected result:
 ## 📸 API Testing Screenshots
 
 ### 1. Create Student
-![Create Student](screenshots/create-student.png)
+
+![Create Student](screenshot/create-student.png)
 
 ### 2. Get All Students
-![Get All Students](screenshots/get-all-students.png)
+
+![Get All Students](screenshot/get-all-students.png)
 
 ### 3. Get Student By ID
-![Get Student By ID](screenshots/get-student.png)
+
+![Get Student By ID](screenshot/get-student.png)
 
 ### 4. Update Student
-![Update Student](screenshots/update-student.png)
+
+![Update Student](screenshot/update-student.png)
 
 ### 5. Delete Student and 404 Verification
-![Delete Student and 404 Verification](screenshots/delete-404.png)
+
+![Delete Student and 404 Verification](screenshot/delete-404.png)
 
 ## ▶️ How to Run
 
